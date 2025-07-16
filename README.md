@@ -1,4 +1,4 @@
-# 📱 FlashQuiz - AI-Powered Flashcard Quiz App
+# 📱 FlashQuiz - AI-Powered Flashcard Quiz App Using Gemini
 
 **FlashQuiz** is a modern React Native app that dynamically generates flashcard quizzes based on any topic you provide. Powered by **Google's Gemini API**, it delivers personalized multiple-choice quizzes in real-time. Even when the API limit is reached, the app falls back to a mock quiz — ensuring a smooth and uninterrupted experience.
 
@@ -27,7 +27,7 @@
 ---
 
 ## 📸 Video 
-[![App Working](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtube.com/shorts/t0iPk_ARRe0?feature=share))
+[![App Working](![1752656387253](https://github.com/user-attachments/assets/64e22bbc-0386-4ace-a07c-99ed92f811d3))](https://youtube.com/shorts/t0iPk_ARRe0?feature=share))
 
 ---
 
