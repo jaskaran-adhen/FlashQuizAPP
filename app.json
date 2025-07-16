@@ -20,10 +20,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.jassadhen.FlashQuizApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ed339e60-dd94-45ad-b815-960560857411"
+      },
+      "android": {
+        "package": "com.yourname.flashquiz"
+      }
     }
   }
 }
