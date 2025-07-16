@@ -27,7 +27,7 @@
 ---
 
 ## 📸 Video 
-[![App Working](![1752656387253](https://github.com/user-attachments/assets/64e22bbc-0386-4ace-a07c-99ed92f811d3))](https://youtube.com/shorts/t0iPk_ARRe0?feature=share))
+[![App Working Demo](https://img.youtube.com/vi/t0iPk_ARRe0/hqdefault.jpg)](https://youtube.com/shorts/t0iPk_ARRe0?feature=share)
 
 ---
 
